@@ -1,0 +1,17 @@
+{
+    "ED_pct_agreement_0.05": 84.0,
+    "ED_mean_std": 0.010324242955090813,
+    "ED_mean_range": 0.027989243896486674,
+    "ET_pct_agreement_0.05": 88.0,
+    "ET_mean_std": 0.013202664766510606,
+    "ET_mean_range": 0.03307188587648368,
+    "NCR_pct_agreement_0.05": 72.0,
+    "NCR_mean_std": 0.029251379827881504,
+    "NCR_mean_range": 0.07267017293818911,
+    "TC_pct_agreement_0.05": 88.0,
+    "TC_mean_std": 0.013653866349036411,
+    "TC_mean_range": 0.034592689738666235,
+    "WT_pct_agreement_0.05": 98.0,
+    "WT_mean_std": 0.005311211673515483,
+    "WT_mean_range": 0.014442609571939869
+}

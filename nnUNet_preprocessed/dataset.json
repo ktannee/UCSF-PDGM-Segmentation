@@ -1,0 +1,21 @@
+{
+    "channel_names": {
+        "0": "FLAIR",
+        "1": "T1",
+        "2": "T1CE",
+        "3": "T2"
+    },
+    "labels": {
+        "background": 0,
+        "NCR": 1,
+        "ED": 2,
+        "ET": 3
+    },
+    "numTraining": 501,
+    "file_ending": ".nii.gz",
+    "name": "UCSF-PDGM-v5",
+    "reference": "UPENN/UCSF-PDGM",
+    "release": "1.0",
+    "description": "Brain Tumor Segmentation",
+    "overwrite_image_reader_writer": "SimpleITKIO"
+}
